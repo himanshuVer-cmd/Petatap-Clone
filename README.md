@@ -1,2 +1,2 @@
 # Petatap-Clone
-Web application that uses Paper.js and howler.js liberaries. 
+Web application that uses Paper.js and howler.js libraries. 
